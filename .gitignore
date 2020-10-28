@@ -1,0 +1,10 @@
+idea/*
+.settings
+.metadata
+data/*
+!data/city-data.json
+!countries.geo.json
+data/*
+!data/dict.txt
+test_cases/*
+.DS_Store
